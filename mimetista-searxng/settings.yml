@@ -1,0 +1,11 @@
+use_default_settings: true
+
+search:
+  formats:
+    - html
+    - json
+
+server:
+  base_url: "https://mimetista-search.onrender.com"
+  limiter: false
+  public_instance: false
