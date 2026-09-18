@@ -6,6 +6,7 @@ search:
     - json
 
 server:
-  base_url: "https://mimetista-search.onrender.com"
+  base_url: "https://mimetista-searxng.onrender.com"
+  secret_key: "MimetistaAI-9f7K2x4P8m6Q"
   limiter: false
   public_instance: false
